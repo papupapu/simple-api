@@ -1,0 +1,13 @@
+{
+  "name": "fakeapi",
+  "version": "0.0.1",
+  "description": "Experiment",
+  "author": "Giancarlo Gerbaz",
+  "license": "MIT",
+  "repository": "https://github.com/papupapu/project",
+  "dependencies": {
+    "express": "^4.14.1",
+    "body-parser": "^1.16.1"
+  },
+  "main": "index.js"
+}
