@@ -59,21 +59,30 @@
             {
               "type": "li",
               "value": {
-                "label": "author",
+                "label": "Author",
                 "value": "Jon Krakauer"
               }
             },
             {
               "type": "li",
-              "value": "Genre: Non-fiction"
+              "value": {
+                "label": "Genre",
+                "value": "Non-fiction"
+              }
             },
             {
               "type": "li",
-              "value": "Pages: 416pp."
+              "value": {
+                "label": "Pages",
+                "value": "416pp."
+              }
             },
             {
               "type": "li",
-              "value": "Publication date: 1997"
+              "value": {
+                "label": "Publication date",
+                "value": "1997"
+              }
             }
           ]
         },
