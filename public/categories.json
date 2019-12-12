@@ -1,0 +1,15 @@
+{
+  "ms": 6,
+  "query": "*[_type == \"category\"]",
+  "result": [
+  {
+  "_createdAt": "2019-01-30T20:59:03Z",
+  "_id": "64e8673b-69e6-4dd0-9f76-f1846842f8e5",
+  "_rev": "wf8XTxu14kfjWg5tgbWZTz",
+  "_type": "category",
+  "_updatedAt": "2019-01-30T20:59:03Z",
+  "description": "Surf description",
+  "title": "Surf"
+  }
+  ]
+  }
